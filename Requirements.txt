@@ -1,5 +1,5 @@
-pdfplumber #for reading pdf files
-pandas #for data manipulation
+pdfplumber==0.5.28 #for reading pdf files
+pandas==1.5.3 #for data manipulation
 numpy #for numerical operations
-matplotlib #for plotting
-seaborn #for plotting
+matplotlib==3.7.1 #for plotting
+seaborn==0.12.2 #for plotting
