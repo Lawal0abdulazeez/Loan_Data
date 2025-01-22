@@ -1,0 +1,5 @@
+pdfplumber #for reading pdf files
+pandas #for data manipulation
+numpy #for numerical operations
+matplotlib #for plotting
+seaborn #for plotting
